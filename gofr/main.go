@@ -12,4 +12,6 @@ func main(){
     return "Hello world", nil
 
   })
+
+  app.Run()
 }
